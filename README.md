@@ -35,7 +35,7 @@ The use of transfer learning ensures that the final model is not only accurate b
 How to Run the Project
 Clone the Repository:
 
-git clone https://github.com/your-username/Medical-Image-Classifier.git
+git clone https://github.com/Shameer37/Medical-Image-Classifier.git
 cd Medical-Image-Classifier
 
 Set up a Virtual Environment:
