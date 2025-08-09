@@ -52,10 +52,10 @@ Run the Classifier:
 
 To classify images from a URL:
 
-python final_classification_script.py "https://www.radiologyinfo.org/en/info/chest-xray"
+python final_classification_script.py "URL"
 
 To classify images from a PDF:
 
-python final_classification_script.py "path/to/your/document.pdf"
+python final_classification_script.py "Path to pdf document"
 
 This will run the full pipeline, from image extraction to classification, and provide the results in the terminal.
