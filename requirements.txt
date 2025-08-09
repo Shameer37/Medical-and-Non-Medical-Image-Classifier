@@ -1,0 +1,8 @@
+torch
+torchvision
+requests
+beautifulsoup4
+pdfplumber
+Pillow
+medmnist
+tqdm
